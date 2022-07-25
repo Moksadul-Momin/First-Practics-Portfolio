@@ -66,3 +66,48 @@ h2 {
     display: flex;
     padding-right: 5%;
 }
+
+.recipie-class {
+    width: 50%;
+    box-shadow: 10px 10px 20px black;
+    margin-left: 10%;
+    margin-right: 5%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 5%;
+}
+
+.last-img {
+    width: 100%;
+}
+
+.my-recipies {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.h2 {
+    font-size: 30px;
+    color: gray;
+    padding-left: 30%;
+}
+
+.footer {
+    padding-left: 35%;
+    background-color: black;
+}
+
+.eat {
+    color: green;
+    padding-left: 100px;
+}
+
+.fresh {
+    color: gray;
+}
+
+.footer-p {
+    color: white;
+}
